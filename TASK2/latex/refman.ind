@@ -1,0 +1,28 @@
+\begin{theindex}
+
+  \item {cipher\_error}, \hyperpage{2}
+
+  \indexspace
+
+  \item {decrypt}
+    \subitem {RouteCipher}, \hyperpage{3}
+
+  \indexspace
+
+  \item {encrypt}
+    \subitem {RouteCipher}, \hyperpage{4}
+
+  \indexspace
+
+  \item {getValidText}
+    \subitem {RouteCipher}, \hyperpage{4}
+
+  \indexspace
+
+  \item {RouteCipher}, \hyperpage{3}
+    \subitem {decrypt}, \hyperpage{3}
+    \subitem {encrypt}, \hyperpage{4}
+    \subitem {getValidText}, \hyperpage{4}
+  \item {RouteCipher.h}, \hyperpage{5}
+
+\end{theindex}
